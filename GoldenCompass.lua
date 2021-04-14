@@ -12,5 +12,5 @@ print(game:GetService("Players").LocalPlayer.Backpack[_G.Gd].PoserGolden.Value)
 local Cpos = game:GetService("Players").LocalPlayer.Backpack[_G.Gd].PoserGolden.Value
 game:service'Players'.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Cpos)
 
-    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ก๊อตเรียลบิช ดอสั้น","All")
+    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Got Real Bitch Doggo..!","All")
  end)
